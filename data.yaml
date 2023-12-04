@@ -1,0 +1,6 @@
+path: C:/test_detection/LP_detection
+train: images/train
+val: images/val
+
+names:
+  0: plate
